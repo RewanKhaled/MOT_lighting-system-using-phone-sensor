@@ -6,5 +6,5 @@ ITI MOT Project: A lighting system controlled by phone sensor
 ## Lighting Sensor Profile
 <img width="664" height="398" alt="Sensor Profile" src="https://github.com/user-attachments/assets/5a7fecd4-0ffe-4cf3-82fc-5952c380a9df" />
 
-## Demo Video [▶️ Watch the demo video on Google Drive]
-(https://drive.google.com/file/d/1q0r6wZK9D1ylk_klJk3OYEAneQKXc5uv/view?usp=drivesdk)
+## Demo Video
+[▶️ Watch the demo video on Google Drive](https://drive.google.com/file/d/1q0r6wZK9D1ylk_klJk3OYEAneQKXc5uv/view?usp=drivesdk)
